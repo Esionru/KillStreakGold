@@ -1,4 +1,5 @@
 # Kill Streak Gold
+<img width="283" height="410" alt="{1B7F8834-1DEE-4263-82FE-84B229ED5493}" src="https://github.com/user-attachments/assets/1ec707d0-d9d4-4a4f-83d2-0eb3d69fa81d" />
 
 Kill Streak Gold is an ExileAPI (ExileCore) plugin for Path of Exile 1 that tracks your kill
 streaks, counts kills by monster rarity (normal / magic / rare / unique) and shows gold gained
